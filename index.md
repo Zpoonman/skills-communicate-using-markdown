@@ -10,3 +10,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```c#
 int daysToTip += 1; 
 ```
+
+- [x] Programming Sandwichanity
+- [x] Learning GitHub
+- [ ] Do exercise
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
